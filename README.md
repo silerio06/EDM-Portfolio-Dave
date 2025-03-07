@@ -10,7 +10,7 @@ My name is Florin Dave D. Silerio, and I am a first-year Bachelor of Science in 
 ### My Projects
 **Midterm Lab Task 1**:[Data Cleaning and Preparation]()
 #Heres an images of my Clean Data and ready for preparation:
-![Clean Data](/Images/CleanData.jpg)
+![Clean Data](Images/CleanData.jpg)
 
 
 
