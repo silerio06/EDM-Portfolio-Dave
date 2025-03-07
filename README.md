@@ -9,7 +9,8 @@ My name is Florin Dave D. Silerio, and I am a first-year Bachelor of Science in 
 - Elemtary : San Juan South Elementary School
 ### My Projects
 **Midterm Lab Task 1**:[Data Cleaning and Preparation]()
-#Heres an images of my Clean Data and ready for preparation:
+
+# Heres an images of my Clean Data and ready for preparation:
 ![Clean Data](https://github.com/silerio06/Midterm-Lab-Task-1/blob/main/Midterm%20Task%201/Images/CleanData.jpg)
 
 
