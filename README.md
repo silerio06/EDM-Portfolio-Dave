@@ -1,4 +1,3 @@
-## Florin Dave's Porfolio
 
 ## 🟢 EDM Midterm Task 1
 
