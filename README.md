@@ -10,9 +10,9 @@ My name is Florin Dave D. Silerio, and I am a first-year Bachelor of Science in 
 - Senior High School : Pampanga High School
 - Elementary : San Juan South Elementary School
 
-### Languages
-![Java](https://img.shields.io/badge/Language-Java-red?logo=java)
-![C](https://img.shields.io/badge/Language-C-blue?logo=c)
+### Languages Used
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
 
 ### My Projects 🚀
 **Midterm Lab Task 1**:[Data Cleaning and Preparation using EXCEL](https://github.com/silerio06/EDM-Portfolio-Dave/tree/main/Midterm%20Task%201)
