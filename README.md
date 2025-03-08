@@ -9,7 +9,7 @@ My name is Florin Dave D. Silerio, and I am a first-year Bachelor of Science in 
 - Senior High School : Pampanga High School
 - Elementary : San Juan South Elementary School
 ### My Projects 🚀
-**Midterm Lab Task 1**:[Data Cleaning and Preparation using EXCEL](Midterm%20Task%201/README.md)
+**Midterm Lab Task 1**:[Data Cleaning and Preparation using EXCEL](https://github.com/silerio06/EDM-Portfolio-Dave/tree/main/Midterm%20Task%201)
 
 
 
