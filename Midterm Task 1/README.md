@@ -14,5 +14,6 @@
 - Perform 3 NF
 - Mapped the Normalized tables as a Physical Data Model
 ## STEP 3 - Here's the screenshot of my output before I started data cleaning (See screenshot)
+![Clean Data](https://github.com/silerio06/Midterm-Lab-Task-1/blob/main/Midterm%20Task%201/Images/CleanData.jpg)
 ## STEP 4 - Here's the screenshot of my output after I started data cleaning (See screenshot)
 **Here's the Physical Data Model*
