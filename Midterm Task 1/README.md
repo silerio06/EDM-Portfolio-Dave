@@ -17,4 +17,6 @@
 ![Raw File](https://github.com/silerio06/EDM-Portfolio/blob/main/Midterm%20Task%201/Images/before.png)
 ## STEP 4 - Here's the screenshot of my output after I started data cleaning (See screenshot)
 ![Clean Data](https://github.com/silerio06/EDM-Portfolio/blob/main/Midterm%20Task%201/Images/CleanData.jpg)
+
 **Here's the Physical Data Model*
+![Raw Model]()
