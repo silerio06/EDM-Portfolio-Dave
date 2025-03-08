@@ -1,3 +1,7 @@
+---
+title: "Florin Dave's Portfolio"
+layout: default
+---
 
 ## 🟢 EDM Midterm Task 1
 
