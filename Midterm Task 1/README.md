@@ -19,4 +19,4 @@
 ![Clean Data](https://github.com/silerio06/EDM-Portfolio/blob/main/Midterm%20Task%201/Images/CleanData.jpg)
 
 **Here's the Physical Data Model*
-![Raw Model]()
+![Raw Model](https://github.com/silerio06/EDM-Portfolio/blob/main/Midterm%20Task%201/Images/data_model.png)
