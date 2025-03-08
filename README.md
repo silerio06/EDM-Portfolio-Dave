@@ -1,8 +1,3 @@
----
-title: "Florin Dave's Portfolio"
-layout: default
----
-
 ## 🟢 EDM Midterm Task 1
 
 This is my Lab-Task-1 in EDM, I have learned the importance of ensuring data quality before analysis. I now understand that raw data often contains errors, inconsistencies, and missing values, which can impact the accuracy of insights. Through various techniques such as handling missing data, removing duplicates, and standardizing formats, I have developed a structured approach to preparing data for meaningful analysis.
