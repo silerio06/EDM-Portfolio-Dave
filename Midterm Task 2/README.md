@@ -5,3 +5,5 @@ Company X aims to extract valuable insights from the dataset Uncleaned_DS_jobs.c
 - Which job roles pay the highest and least?
 - What size companies pay the best?
 - Where do job roles or job titles pay the best and least in a specific state?
+
+### DATASET BEFORE CLEANING AND TRANSFORMATION
