@@ -7,4 +7,4 @@ Company X aims to extract valuable insights from the dataset Uncleaned_DS_jobs.c
 - Where do job roles or job titles pay the best and least in a specific state?
 
 ### DATASET BEFORE CLEANING AND TRANSFORMATION
-https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/RAW_DATA.png
+![Clean Data](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/RAW_DATA.png)
