@@ -38,3 +38,7 @@ Company X aims to extract valuable insights from the dataset Uncleaned_DS_jobs.c
 **After Data Cleaning: (Screenshot of cleaned data post-transformation)*
 ![Cleaned Data](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/cleaned_data.png)
 
+# STEP 4: FINAL OUTPUT QUERIES
+**Here are the final queries after performing all the necessary data transformation*
+- Sal By Role Type: A query with  job titles categorize by role type
+![Sal By Role Type](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/Sal_By_Role_Type.png)
