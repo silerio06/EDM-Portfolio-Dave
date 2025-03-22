@@ -35,4 +35,6 @@ Company X aims to extract valuable insights from the dataset Uncleaned_DS_jobs.c
 # Step 3: SCREENSHOTS
 **Before Data Cleaning: (See screenshot of raw data before any transformations were made.)*
 ![Uncleaned Data](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/uncleaned.png)
+**After Data Cleaning: (Screenshot of cleaned data post-transformation)*
+![Cleaned Data](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/cleaned_data.png)
 
