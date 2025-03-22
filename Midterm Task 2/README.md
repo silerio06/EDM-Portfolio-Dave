@@ -36,24 +36,33 @@ Company X aims to extract valuable insights from the dataset Uncleaned_DS_jobs.c
 ## Step 3: SCREENSHOTS
 
 **Before Data Cleaning: (See screenshot of raw data before any transformations were made.)*
+
 ![Uncleaned Data](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/uncleaned.png)
 
 **After Data Cleaning: (Screenshot of cleaned data post-transformation)*
+
 ![Cleaned Data](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/cleaned_data.png)
 
 ## STEP 4: FINAL OUTPUT QUERIES
 **Here are the final queries after performing all the necessary data transformation*
+
 - Sal By Role Type: A query with  job titles categorize by role type.
+ 
 ![Sal By Role Type](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/Sal_By_Role_Type.png)
 
 - Sal By Size: A query focusing on salary data by company size or other metric.
+  
 ![Sal By Size](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/Sal_By_Size.png)
 
 - Sal By State: A query analyzing salary data by state.
+  
 ![Sal By State](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/Sal_By_State.png)
 
 - Uncleaned DS Job: The original dataset before any transformation.
+  
   ![Uncled DS Job](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/Uncleaned%20DS%20job.png)
 
 ## PHYSICAL MODEL
-![PHYSICAL MODEL]()
+**Heres the data dependecies of data.*
+
+![PHYSICAL MODEL](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/Data_Dependencies.png)
