@@ -48,6 +48,8 @@ Company X aims to extract valuable insights from the dataset Uncleaned_DS_jobs.c
 ![Sal By Size](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/Sal_By_Size.png
 
 - Sal By State: A query analyzing salary data by state.
-![Sal By State]()
+![Sal By State](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/Sal_By_State.png)
 
+- Uncleaned DS Job: The original dataset before any transformation.
+  ![Uncled DS Job]()
 
