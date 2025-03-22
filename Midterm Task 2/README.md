@@ -8,14 +8,14 @@ Company X aims to extract valuable insights from the dataset Uncleaned_DS_jobs.c
 
 ## STEPS AND SCREENSHOTS
 
-# Step 1: Load the Data
+## Step 1: Load the Data
 - Import the dataset into Power Query Editor.
 - Load the raw file
 - Fit Column and row width and height
 - TRIM extra spaces
 - Remove NULL values
 - Remove Duplicates
-# Step 2: Clean Salary Column
+## Step 2: Clean Salary Column
 - Remove unnecessary characters and extract Min/Max salary values.
 - Salary Estimate Column:
 - In Power Query, select the Salary Estimate column.
@@ -32,13 +32,18 @@ Company X aims to extract valuable insights from the dataset Uncleaned_DS_jobs.c
 - Filter out negative values in Competitors and Industry columns.
 6. Clean Company Name:
 - Remove any unwanted text from the Company Name column using Transform > Replace Values or Remove Text
-# Step 3: SCREENSHOTS
+## Step 3: SCREENSHOTS
 **Before Data Cleaning: (See screenshot of raw data before any transformations were made.)*
 ![Uncleaned Data](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/uncleaned.png)
+
 **After Data Cleaning: (Screenshot of cleaned data post-transformation)*
 ![Cleaned Data](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/cleaned_data.png)
 
-# STEP 4: FINAL OUTPUT QUERIES
+## STEP 4: FINAL OUTPUT QUERIES
 **Here are the final queries after performing all the necessary data transformation*
 - Sal By Role Type: A query with  job titles categorize by role type
 ![Sal By Role Type](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/Sal_By_Role_Type.png)
+
+- Sal By Size: A query focusing on salary data by company size or other metric
+
+
