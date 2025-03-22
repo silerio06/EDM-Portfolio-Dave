@@ -41,9 +41,13 @@ Company X aims to extract valuable insights from the dataset Uncleaned_DS_jobs.c
 
 ## STEP 4: FINAL OUTPUT QUERIES
 **Here are the final queries after performing all the necessary data transformation*
-- Sal By Role Type: A query with  job titles categorize by role type
+- Sal By Role Type: A query with  job titles categorize by role type.
 ![Sal By Role Type](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/Sal_By_Role_Type.png)
 
-- Sal By Size: A query focusing on salary data by company size or other metric
+- Sal By Size: A query focusing on salary data by company size or other metric.
+![Sal By Size](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/Sal_By_Size.png
+
+- Sal By State: A query analyzing salary data by state.
+![Sal By State]()
 
 
