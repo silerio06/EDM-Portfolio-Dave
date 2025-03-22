@@ -33,6 +33,6 @@ Company X aims to extract valuable insights from the dataset Uncleaned_DS_jobs.c
 6. Clean Company Name:
 - Remove any unwanted text from the Company Name column using Transform > Replace Values or Remove Text
 # Step 3: SCREENSHOTS
-* Before Data Cleaning: (See screenshot of raw data before any transformations were made.)*
+**Before Data Cleaning: (See screenshot of raw data before any transformations were made.)*
 ![Uncleaned Data](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%202/Images/uncleaned.png)
 
