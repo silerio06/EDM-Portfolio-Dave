@@ -40,4 +40,4 @@ Color Customization: Home → Cell Styles or manually color chart elements. Char
 Connect Slicers: Right-click slicer → Report Connections → select all relevant PivotTables. Test Interactivity: Click slicer options to verify filtering updates the dashboard.
 
 ## STEP 7 - INSERT DASHBOARD
-![DASHBOARD]()
+![DASHBOARD](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%203/Images/dashboard.png)
