@@ -15,4 +15,4 @@
 
 *Sal By Size*:
 
-![Sal By Size]()
+![Sal By Size](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%203/Images/pivot_size.png)
