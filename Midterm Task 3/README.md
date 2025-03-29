@@ -37,3 +37,7 @@
 Color Customization: Home → Cell Styles or manually color chart elements. Chart Design: Select chart → Chart Tools → Design.
 
 ## STEP 6 - Make the Dashboard Interactive
+Connect Slicers: Right-click slicer → Report Connections → select all relevant PivotTables. Test Interactivity: Click slicer options to verify filtering updates the dashboard.
+
+## STEP 7 - INSERT DASHBOARD
+![DASHBOARD]()
