@@ -5,6 +5,6 @@
 - Load Data: Open Worksheet on Uncleaned DS Jobs and the transform tables.
 
 ## STEP 2: Pivot Table Creation
-  **Sal By Role*
+  *Sal By Role*:
 
-  
+  ![Sal By Role](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%203/Images/role_pivot.png)
