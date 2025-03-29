@@ -8,3 +8,7 @@
   *Sal By Role*:
 
   ![Sal By Role](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%203/Images/role_pivot.png)
+
+*Sal By State*:
+
+![Sal by Role]()
