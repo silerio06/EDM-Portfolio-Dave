@@ -12,3 +12,7 @@
 *Sal By State*:
 
 ![Sal by State](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Midterm%20Task%203/Images/pivot_state.png)
+
+*Sal By Size*:
+
+![Sal By Size]()
