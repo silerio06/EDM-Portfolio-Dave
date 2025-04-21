@@ -31,3 +31,5 @@
 <img src="Images/event_sponsor_tbl.png" alt="Alt Text" width="500" height="300">
 
 ### EER DIAGRAM
+
+<img src="Final Lab Task 1/Images/eer_diagram.png"  alt="Alt Text" width="500" height="300">
