@@ -32,4 +32,4 @@
 
 ### EER DIAGRAM
 
-<img src="Images/eer_diagram.png"  alt="Alt Text" width="500" height="300">
+<img src="Images/eer_diagram.png"  alt="Alt Text" width="600" height="400">
