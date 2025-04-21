@@ -28,6 +28,6 @@
 - event_id (int, foreign key to events.event_id)
 - sponsor_name (VARCHAR, up to 255 characters, not null)
 
-<img src="" alt="Alt Text" width="500" height="300">
+<img src="Images/event_sponsor_tbl.png" alt="Alt Text" width="500" height="300">
 
 ### EER DIAGRAM
