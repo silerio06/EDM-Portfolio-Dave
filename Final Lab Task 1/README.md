@@ -20,7 +20,7 @@
 - attendee_id (int, foreign key to attendees.attendee_id)
 - Composite primary key on (event_id, attendee_id)
 
-<img src="" alt="Alt Text" width="500" height="300">
+<img src="Images/event_attendees_tbl.png" alt="Alt Text" width="500" height="300">
 
 ### Create an event sponsors table with fields
 
