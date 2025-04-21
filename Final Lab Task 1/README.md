@@ -12,7 +12,7 @@
 - attendee_id (int, auto-increment, primary key)
 - attendee_name (VARCHAR, up to 255 characters, not null)
 
-<img src="" alt="Alt Text" width="500" height="300">
+<img src="Images/attendees_tbl.png" alt="Alt Text" width="500" height="300">
 
 ### Create an attendees table with fields
 
