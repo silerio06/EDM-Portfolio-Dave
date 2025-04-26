@@ -9,6 +9,6 @@ For this task, we are given MySQL statements that need to be implemented.
 - Task 2
 <img src="Images/task2.png" alt="Alt Text" width="600" height="500">
 - Task 3
-<img src="" alt="Alt Text" width="600" height="500">
+<img src="Images/task3.png" alt="Alt Text" width="600" height="500">
 - Task 4
 <img src="" alt="Alt Text" width="600" height="500">
