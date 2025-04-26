@@ -14,7 +14,7 @@ For this task, we are given ER diagram representing student assignment submissio
 
 - Sumbmission Table
 
-<img src="" width="500" height="300">
+<img src="Images/sub_tbl.png" width="500" height="300">
 
 
 
