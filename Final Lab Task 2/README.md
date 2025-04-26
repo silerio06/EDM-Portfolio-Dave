@@ -29,3 +29,7 @@ For this task, we are given ER diagram representing student assignment submissio
 - Submission Table
 
 <img src="Images/sub_struct.png" alt="Alt Text" width="500" height="200">
+
+### Here's the Relational Schema (See Screenshot)
+
+<img src="" alt="Alt Text" width="500" height="200">
