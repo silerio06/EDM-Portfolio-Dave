@@ -19,3 +19,7 @@ For this task, we are given MySQL statements that need to be implemented.
 ### Task 4
   
 <img src="Images/task4.png" alt="Alt Text" width="400" height="100">
+
+### Here's the EER DIAGRAM
+
+<img src="" alt="Alt Text" width="400" height="100">
