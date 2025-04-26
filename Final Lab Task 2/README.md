@@ -33,3 +33,7 @@ For this task, we are given ER diagram representing student assignment submissio
 ### Here's the Relational Schema (See Screenshot)
 
 <img src="Images/relational_ tbl.png" alt="Alt Text" width="600" height="500">
+
+### Here's the SQK copy of the Database and Table Structure
+
+<img src="Images/database_tbl_struct.png" alt="Alt Text" width="600" height="500">
