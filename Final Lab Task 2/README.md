@@ -32,4 +32,4 @@ For this task, we are given ER diagram representing student assignment submissio
 
 ### Here's the Relational Schema (See Screenshot)
 
-<img src="Images/relational_ tbl.png" alt="Alt Text" width="500" height="200">
+<img src="Images/relational_ tbl.png" alt="Alt Text" width="600" height="500">
