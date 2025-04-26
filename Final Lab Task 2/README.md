@@ -20,12 +20,12 @@ For this task, we are given ER diagram representing student assignment submissio
 
 - Student Table
 - 
-<img src="Images/stu_struct.png" alt="Alt Text" width="500" height="300">
+<img src="Images/stu_struct.png" alt="Alt Text" width="300" height="150">
 
 - Assignment Table
 
-<img src="Images/assign_struct.png" alt="Alt Text" width="500" height="300">
+<img src="Images/assign_struct.png" alt="Alt Text" width="300" height="150">
 
 - Submission Table
 
-<img src="Images/sub_struct.png" alt="Alt Text" width="500" height="300">
+<img src="Images/sub_struct.png" alt="Alt Text" width="500" height="200">
