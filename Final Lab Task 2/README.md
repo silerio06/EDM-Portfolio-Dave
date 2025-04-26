@@ -20,7 +20,7 @@ For this task, we are given ER diagram representing student assignment submissio
 
 - Student Table
 - 
-<img src="" alt="Alt Text" width="500" height="300">
+<img src="Images/stu_struct.png" alt="Alt Text" width="500" height="300">
 
 - Assignment Table
 
