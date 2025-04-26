@@ -10,7 +10,7 @@ For this task, we are given ER diagram representing student assignment submissio
 
 - Assignment Table
 
-<img src="" width="500" height="300">
+<img src="Images/assgnment_tbl.png" width="500" height="300">
 
 - Sumbmission Table
 
