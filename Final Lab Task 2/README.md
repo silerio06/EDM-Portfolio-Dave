@@ -6,7 +6,7 @@ For this task, we are given ER diagram representing student assignment submissio
 
 - Student Table
 
-<img src="" width="500" height="300">
+<img src="Images/student_tbl.png" width="500" height="300">
 
 - Assignment Table
 
