@@ -30,4 +30,5 @@ CREATE TABLE EmployeeSalaries (
 ```sql
 SELECT employee_name, salary FROM EmployeeSalaries ORDER BY salary DESC;
 ```
+<img src="Images/emp_name_salary.png" width="400" height="150">
 
