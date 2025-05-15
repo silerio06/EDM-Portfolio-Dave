@@ -32,3 +32,9 @@ SELECT employee_name, salary FROM EmployeeSalaries ORDER BY salary DESC;
 ```
 <img src="Images/emp_name_salary.png" width="400" height="150">
 
+### Retrieve the department names along with the average salary for each department.
+
+```sql
+SELECT department, AVG(salary) AS average_salary FROM EmployeeSalaries GROUP BY department;
+```
+
