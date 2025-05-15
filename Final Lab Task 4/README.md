@@ -74,3 +74,16 @@ SELECT full_name, salary FROM EmployeeData ORDER BY salary DESC;
 SELECT AVG(salary) AS average_salary FROM EmployeeData HAVING average_salary > 70000;
 ```
 ![image](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Final%20Lab%20Task%204/Images/select2.png)
+
+### Retrieve the full names of employees who earn a salary greater than $100,000.
+```sql
+SELECT full_name FROM EmployeeData WHERE salary > 100000;
+```
+![image]()
+
+### Retrieve the number of employees from the EmployeeData table.
+
+```sql
+SELECT COUNT(employee_id) AS number_of_employees FROM EmployeeData;
+```
+![image]()
