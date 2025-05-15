@@ -79,7 +79,7 @@ SELECT AVG(salary) AS average_salary FROM EmployeeData HAVING average_salary > 7
 ```sql
 SELECT full_name FROM EmployeeData WHERE salary > 100000;
 ```
-![image]()
+![image](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Final%20Lab%20Task%204/Images/select3.png)
 
 ### Retrieve the number of employees from the EmployeeData table.
 
