@@ -59,3 +59,4 @@ CREATE TABLE EmployeeData (
     manager_id INT
 );
 ```
+<img src="Images/emp_data_tbl.png" width="600" height="500">
