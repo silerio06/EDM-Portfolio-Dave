@@ -86,4 +86,4 @@ SELECT full_name FROM EmployeeData WHERE salary > 100000;
 ```sql
 SELECT COUNT(employee_id) AS number_of_employees FROM EmployeeData;
 ```
-![image]()
+![image](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Final%20Lab%20Task%204/Images/select4.png)
