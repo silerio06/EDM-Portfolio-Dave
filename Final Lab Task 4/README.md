@@ -68,4 +68,9 @@ SELECT full_name, salary FROM EmployeeData ORDER BY salary DESC;
 ```
 ![image](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Final%20Lab%20Task%204/Images/select1.png)
 
+### Retrieve the average salary from EmployeeData table, where the average salary exceeds $70,000.
+
+```sql
+SELECT AVG(salary) AS average_salary FROM EmployeeData HAVING average_salary > 70000;
+```
 
