@@ -39,3 +39,23 @@ SELECT department, AVG(salary) AS average_salary FROM EmployeeSalaries GROUP BY 
 ```
 <img src="Images/depart_avg_sal.png" width="300" height="300">
 
+## Step 2: Key Schema Statements
+
+**Objective:** Perform queries on the `EmployeeData` table.
+
+- Problem 2: Create a database named employeeDB and copy and paste the initial query.
+- The `EmployeeData` table stores information about employees with the following schema:
+  
+```sql
+CREATE DATABASE employeeDB;
+USE employeeDB;
+
+CREATE TABLE EmployeeData (
+    employee_id INT AUTO_INCREMENT PRIMARY KEY,
+    full_name VARCHAR(100),
+    department VARCHAR(50),
+    salary DECIMAL(10,2),
+    hire_date DATE,
+    manager_id INT
+);
+```
