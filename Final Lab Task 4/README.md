@@ -66,6 +66,6 @@ CREATE TABLE EmployeeData (
 ```sql
 SELECT full_name, salary FROM EmployeeData ORDER BY salary DESC;
 ```
-![image](https://github.com/user-attachments/assets/2534dc17-7321-4d74-892a-92c6153f1b06)
+![image](https://github.com/silerio06/EDM-Portfolio-Dave/blob/main/Final%20Lab%20Task%204/Images/select1.png)
 
 
