@@ -23,3 +23,4 @@ CREATE TABLE EmployeeSalaries (
     hire_date DATE
 );
 ```
+<img src="Images/emp_sal_tbl.png" width="600" height="300">
