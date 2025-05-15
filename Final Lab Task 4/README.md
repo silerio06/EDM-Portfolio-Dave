@@ -60,3 +60,9 @@ CREATE TABLE EmployeeData (
 );
 ```
 <img src="Images/emp_data_tbl.png" width="600" height="500">
+
+### Retrieve the employees along with their full names and salaries with highest paying employee to the lowest.
+
+```sql
+SELECT full_name, salary FROM EmployeeData ORDER BY salary DESC;
+```
