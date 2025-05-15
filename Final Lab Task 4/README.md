@@ -22,7 +22,12 @@ CREATE TABLE EmployeeSalaries (
     salary DECIMAL(10,2),
     hire_date DATE
 );
-
+```
 <img src="Images/emp_sal_tbl.png" width="600" height="300">
 
 ### Retrieve the employee_name and salary and arrange from the highest salary to lowest.
+
+```sql
+SELECT employee_name, salary FROM EmployeeSalaries ORDER BY salary DESC;
+```
+
